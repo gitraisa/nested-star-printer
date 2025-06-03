@@ -10,4 +10,14 @@ This project helps beginners understand nested loops by printing stars arranged 
 1. Compile the program with:
    ```bash
    gcc nested_star.c -o nested_star
+2. Run the executable:
+   ```bash
    ./nested_star
+   
+## Sample Output
+
+```markdown
+i = 0
+   j = 0: *****
+   j = 1: *****
+   ...
